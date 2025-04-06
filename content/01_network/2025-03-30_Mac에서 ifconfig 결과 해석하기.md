@@ -1,8 +1,11 @@
 ---
 aliases: 
-tags: 
+tags:
+  - 네트워크
+  - ifconfig
+  - Macos
 created_at: 2025 03 30 20:28:23
-updated_at: 2025 03 30 20:30:58
+updated_at: 2025 04 06 13:55:08
 ---
 
 # 🍎 Mac에서 `ifconfig` 결과 해석하기
